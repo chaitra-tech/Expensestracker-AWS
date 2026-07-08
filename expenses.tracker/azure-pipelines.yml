@@ -13,8 +13,8 @@ variables:
   value: us-east-1
 
 - name: TF_DIR
-  value: '.'
-
+  value: 'expenses.tracker'
+  
 - name: BACKEND_IMAGE
   value: expenses-backend
 
